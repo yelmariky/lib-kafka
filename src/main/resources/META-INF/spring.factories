@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+fr.younes.lib.spring.kafka.config.producer.KafkaProducerConfigMostOnce,\
+fr.younes.lib.spring.kafka.config.producer.KafkaProducerConfigExactlyOnce,\
+fr.younes.lib.spring.kafka.config.producer.KafkaProducerConfigAtLeastOnce,\
+fr.younes.lib.spring.kafka.config.customer.KafkaConsumerConfig
